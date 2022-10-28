@@ -14,7 +14,7 @@
 ## ✅ Лабораторная работа № 2
 
 ### Разработка простого веб-приложения (html,css,js + json,xml): 
-### "[Portfolio](https://github.com/AS-Groop/inet-lab)" (Landing page)
+### "[Portfolio](https://asadbek07.netlify.app)" (Landing page)
 
 ### Работа над проектом ведется в команде "[ProgrammersOfLuck](https://github.com/fireru277/inet2022/wiki)".
 1. Репозиторий проекта доступен по ссылке: 
