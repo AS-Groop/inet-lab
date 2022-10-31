@@ -40,7 +40,7 @@
 
 7.Была проверена работоспособность сайта - с ПК8
 
-8.[Файл модели сети]().
+8.[Файл модели сети](https://github.com/AS-Groop/inet-lab/blob/main/questions/sheraliyevAA.pkt).
 
 
 ## ✅ Экзаменационные билет №5
