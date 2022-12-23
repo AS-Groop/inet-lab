@@ -45,5 +45,9 @@
 
 ## ✅ Экзаменационные билет №5
 
+[Перейти к билету №5](https://github.com/stankin/inet-2022/wiki/exam05);
+
+[Compare](https://github.com/stankin/inet-2022/wiki/_compare/d5200f0ce5ded09d2a446913adb9dfc99d40529e);
+
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №5](https://github.com/AS-Groop/inet-lab/blob/main/questions/Asadbek.docx)
