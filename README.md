@@ -42,6 +42,8 @@
 
 8.[Файл модели сети](https://github.com/AS-Groop/inet-lab/blob/main/questions/sheraliyevAA.pkt).
 
+9.[Screen](https://github.com/AS-Groop/inet-lab/tree/main/questions/scren)
+
 
 ## ✅ Экзаменационные билет №5
 
